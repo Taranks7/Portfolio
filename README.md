@@ -4,7 +4,14 @@ This is a portfolio of some of the data science and machine learning based proje
 ### [Project 1: Representational Dissimilarity Matrix: Project Overview](https://github.com/Taranks7/RDM_researchproject) ### 
 
 
+<br/>
+
 ### [Project 2: Number plate detection](https://github.com/Taranks7/OpenCV_numberplate) ### 
+
+
+
+
+<br/>
 
 
 ### [Project 3: Deep learning based CMR image segmentation](https://github.com/Taranks7/OpenCV_segmentation) ### 
