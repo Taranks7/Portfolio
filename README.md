@@ -6,7 +6,7 @@ This is a portfolio of some of the data science and machine learning based proje
 
 <br/>
 
-### [Project 2: Drug Discovery Data Science Project](https://github.com/Taranks7/Drug-Discovery-Data-Science-Project) ### 
+### [Project 2: Bioinfomatics Project on Drug Discovery](https://github.com/Taranks7/Drug-Discovery-Data-Science-Project) ### 
 
 
 
