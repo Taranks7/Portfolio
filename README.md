@@ -6,7 +6,7 @@ This is a portfolio of some of the data science and machine learning based proje
 
 <br/>
 
-### [Project 2: Number plate detection](https://github.com/Taranks7/OpenCV_numberplate) ### 
+### [Project 2: Drug Discovery Data Science Project] ### 
 
 
 
