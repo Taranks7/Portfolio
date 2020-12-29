@@ -14,7 +14,7 @@ Scatter plot showing the experimental and predicted pIC50 values based on the Re
 ### [Project 2: Deep learning based CMR image segmentation](https://github.com/Taranks7/OpenCV_segmentation) ### 
 - Developed an automated process, using convolutional neural networks (CNN), to segment (cardiovascular magnetic resonance) CMR images.
 - Implement and trained the deep learning based model through augmenting provided training dataset.
-- Model had an accuracy score of approximately 0.83 at labelling CMR images into the following classes: background, left ventrcle, right ventricle and myocardium -shown on the rightmost tile in the image below. 
+- Model had an accuracy score of approximately 0.83 at labelling CMR images into the following classes: background, left ventrcle, right ventricle and myocardium - shown on the rightmost tile in the image below. 
 
 ![opencv_seg](https://user-images.githubusercontent.com/74196907/102830431-345aca80-43e1-11eb-807f-711e7d297f04.png)
 <br/>
