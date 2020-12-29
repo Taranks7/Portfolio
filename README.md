@@ -2,9 +2,9 @@
 This is a portfolio of some of the data science and machine learning based projects I have worked on.
 
 ### [Project 1: Bioinfomatics Project on Drug Discovery for Coronavirus](https://github.com/Taranks7/Drug-Discovery-Data-Science-Project) ### 
-- Retrieve biological activity data of target protiens and compounds from the ChEMBL database 
-- Identify coumpound or molecule which can inhibit the function of the coronavirus 3C-like proteinase
-- Biological activity data used to build a regression model to predict pIC50 values 
+- Retrieve biological activity data of target proteins and compounds from the ChEMBL database
+- Identify compound or molecule which can inhibit the function of the coronavirus 3C-like proteinase
+- Biological activity data used to build a regression model to predict pIC50 values
 
 ![final image](https://user-images.githubusercontent.com/74196907/103291535-e72fb780-49e3-11eb-8d6b-e56d3c05ed9a.png)
 
@@ -14,7 +14,7 @@ Scatter plot showing the experimental and predicted pIC50 values based on the Re
 ### [Project 2: Deep learning based CMR image segmentation](https://github.com/Taranks7/OpenCV_segmentation) ### 
 - Developed an automated process, using convolutional neural networks (CNN), to segment (cardiovascular magnetic resonance) CMR images.
 - Implement and trained the deep learning based model through augmenting provided training dataset.
-- Model had an accuracy score of approximately 0.83 at labelling CMR images into the following classes: background, left ventrcle, right ventricle and myocardium - shown on the rightmost tile in the image below. 
+- Model had an accuracy score of approximately 0.83 at labelling CMR images into the following classes: background, left ventricle , right ventricle and myocardium - shown on the rightmost tile in the image below. 
 
 ![opencv_seg](https://user-images.githubusercontent.com/74196907/102830431-345aca80-43e1-11eb-807f-711e7d297f04.png)
 <br/>
