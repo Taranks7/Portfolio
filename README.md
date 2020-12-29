@@ -18,7 +18,6 @@ Figure 1. RDM for participant 1; 0 represents most similar pairs of stimuli and 
 ![final image](https://user-images.githubusercontent.com/74196907/103291535-e72fb780-49e3-11eb-8d6b-e56d3c05ed9a.png)
 
 Scatter plot showing the experimental and predicted pIC50 values based on the Regression model 
-
 <br/>
 
 ### [Project 3: Deep learning based CMR image segmentation](https://github.com/Taranks7/OpenCV_segmentation) ### 
