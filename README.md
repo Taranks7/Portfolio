@@ -10,13 +10,17 @@ This is a portfolio of some of the data science and machine learning based proje
 Figure 1. RDM for participant 1; 0 represents most similar pairs of stimuli and 0.05 represents least similar pairs. 
 <br/>
 
-### [Project 2: Bioinfomatics Project on Drug Discovery](https://github.com/Taranks7/Drug-Discovery-Data-Science-Project) ### 
+### [Project 2: Bioinfomatics Project on Drug Discovery for Coronavirus](https://github.com/Taranks7/Drug-Discovery-Data-Science-Project) ### 
+# Drug Discovery Data-Science: Project Overview # 
+- Retrieve biological activity data of target protiens and compounds from the ChEMBL database 
+- Identify coumpound or molecule which can inhibit the function of the coronavirus 3C-like proteinase
+- Biological activity data used to build a regression model to predict pIC50 values 
 
+![final image](https://user-images.githubusercontent.com/74196907/103291535-e72fb780-49e3-11eb-8d6b-e56d3c05ed9a.png)
 
-
+Scatter plot showing the experimental and predicted pIC50 values based on the Regression model 
 
 <br/>
-
 
 ### [Project 3: Deep learning based CMR image segmentation](https://github.com/Taranks7/OpenCV_segmentation) ### 
 - Developed an automated process, using convolutional neural networks (CNN), to segment (cardiovascular magnetic resonance) CMR images.
