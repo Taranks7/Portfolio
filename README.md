@@ -11,7 +11,6 @@ Figure 1. RDM for participant 1; 0 represents most similar pairs of stimuli and 
 <br/>
 
 ### [Project 2: Bioinfomatics Project on Drug Discovery for Coronavirus](https://github.com/Taranks7/Drug-Discovery-Data-Science-Project) ### 
-# Drug Discovery Data-Science: Project Overview # 
 - Retrieve biological activity data of target protiens and compounds from the ChEMBL database 
 - Identify coumpound or molecule which can inhibit the function of the coronavirus 3C-like proteinase
 - Biological activity data used to build a regression model to predict pIC50 values 
