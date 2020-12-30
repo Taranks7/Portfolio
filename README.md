@@ -1,7 +1,7 @@
 # Taranjit's Portfolio # 
 This is a portfolio of some of the data science and machine learning based projects I have worked on.
 
-### [Project 1: Bioinfomatics Project on Drug Discovery for Coronavirus](https://github.com/Taranks7/Drug-Discovery-Data-Science-Project) ### 
+### [Project 1: Bioinfomatics Project on Drug Discovery for Coronavirus: Project Overview](https://github.com/Taranks7/Drug-Discovery-Data-Science-Project) ### 
 - Retrieve biological activity data of target proteins and compounds from the ChEMBL database
 - Identify compound or molecule which can inhibit the function of the coronavirus 3C-like proteinase
 - Biological activity data used to build a regression model to predict pIC50 values
@@ -11,7 +11,7 @@ This is a portfolio of some of the data science and machine learning based proje
 Scatter plot showing the experimental and predicted pIC50 values based on the Regression model 
 <br/>
 
-### [Project 2: Deep learning based CMR image segmentation](https://github.com/Taranks7/OpenCV_segmentation) ### 
+### [Project 2: Deep learning based CMR image segmentationL Project Overview](https://github.com/Taranks7/OpenCV_segmentation) ### 
 - Developed an automated process, using convolutional neural networks (CNN), to segment (cardiovascular magnetic resonance) CMR images.
 - Implement and trained the deep learning based model through augmenting provided training dataset.
 - Model had an accuracy score of approximately 0.83 at labelling CMR images into the following classes: background, left ventricle , right ventricle and myocardium - shown on the rightmost tile in the image below. 
