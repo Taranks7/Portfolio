@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Taranjit's Portfolio # 
+This is a portfolio of some of the data science and machine learning based projects I have worked on.
 
-You can use the [editor on GitHub](https://github.com/Taranks7/Taranjit_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### [Project 1: Bioinfomatics Project on Drug Discovery for Coronavirus: Project Overview](https://github.com/Taranks7/Drug-Discovery-Data-Science-Project) ### 
+- Retrieve biological activity data of target proteins and compounds from the ChEMBL database
+- Identify compound or molecule which can inhibit the function of the coronavirus 3C-like proteinase
+- Biological activity data used to train a regression model to predict pIC50 values
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![final image](https://user-images.githubusercontent.com/74196907/103291535-e72fb780-49e3-11eb-8d6b-e56d3c05ed9a.png)
 
-### Markdown
+Figure 1. Scatter plot showing the experimental and predicted pIC50 values based on the Regression model 
+<br/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Project 2: Deep learning based CMR image segmentationL Project Overview](https://github.com/Taranks7/OpenCV_segmentation) ### 
+- Developed an automated process, using convolutional neural networks (CNN), to segment (cardiovascular magnetic resonance) CMR images.
+- Implement and trained the deep learning based model through augmenting provided training dataset.
+- Model had an accuracy score of approximately 0.83 at labelling CMR images into the following classes: background, left ventricle , right ventricle and myocardium - shown on the rightmost tile in figure 2 below. 
 
-```markdown
-Syntax highlighted code block
+![opencv_seg](https://user-images.githubusercontent.com/74196907/102830431-345aca80-43e1-11eb-807f-711e7d297f04.png)
+<br/>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### [Project 3: Representational Similarity Analysis: Project Overview](https://github.com/Taranks7/RDM_researchproject) ### 
 
-1. Numbered
-2. List
+- create representational dissimilarity matrix (RDM) for participants using pairs of stimuli, reflecting Euclidean distances between stimuli
+- the formed matrix characterizes the representation of the stimuli in an individual's brain or a computational model
+![rdm_plot](https://user-images.githubusercontent.com/74196907/103173524-8e311980-4853-11eb-991a-addce9202bbf.png) 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Taranks7/Taranjit_Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Figure 3. RDM for participant 1; 0 represents most similar pairs of stimuli and 0.05 represents least similar pairs. 
