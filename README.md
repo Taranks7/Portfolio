@@ -11,8 +11,8 @@ This is a portfolio of some of the data science and machine learning based proje
 Figure 1. Scatter plot showing the experimental and predicted pIC50 values based on the Regression model 
 <br/>
 
-### [Project 2: Deep learning based CMR image segmentationL Project Overview](https://github.com/Taranks7/OpenCV_segmentation) ### 
-- Developed an automated process, using convolutional neural networks (CNN), to segment (cardiovascular magnetic resonance) CMR images.
+### [Project 2: Deep learning based CMR image segmentation: Project Overview](https://github.com/Taranks7/OpenCV_segmentation) ### 
+- Developed an automated process, using convolutional neural networks (CNN) and OpenCV, to segment (cardiovascular magnetic resonance) CMR images.
 - Implement and trained the deep learning based model through augmenting provided training dataset.
 - Model had an accuracy score of approximately 0.83 at labelling CMR images into the following classes: background, left ventricle , right ventricle and myocardium - shown on the rightmost tile in figure 2 below. 
 
