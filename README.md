@@ -1,5 +1,5 @@
 # Taranjit Sehmbi #
-## This is a portfolio of some of the data science and machine learning based projects I have worked on. ## 
+### This is a portfolio of some of the data science and machine learning based projects I have worked on. ###
 
 ### [Project 1: Bioinfomatics Project on Drug Discovery for Coronavirus: Project Overview](https://github.com/Taranks7/Drug-Discovery-Data-Science-Project) ### 
 - Retrieve biological activity data of target proteins and compounds from the ChEMBL database
