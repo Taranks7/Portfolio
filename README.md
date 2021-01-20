@@ -24,6 +24,6 @@ Figure 1. Scatter plot showing the experimental and predicted pIC50 values based
 
 - create representational dissimilarity matrix (RDM) for participants using pairs of stimuli, reflecting Euclidean distances between stimuli
 - the formed matrix characterizes the representation of the stimuli in an individual's brain or a computational model
-![rdm_plot](https://user-images.githubusercontent.com/74196907/103173524-8e311980-4853-11eb-991a-addce9202bbf.png) 
+![rdm_plot](https://user-images.githubusercontent.com/74196907/105254277-14056380-5b79-11eb-8468-841ae195d885.png)
 
 Figure 3. RDM for participant 1; 0 represents most similar pairs of stimuli and 0.05 represents least similar pairs. 
