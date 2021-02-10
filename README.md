@@ -20,10 +20,10 @@ Figure 1. Scatter plot showing the experimental and predicted pIC50 values based
 <br/>
 
 
-### [Project 3: Representational Similarity Analysis: Project Overview](https://github.com/Taranks7/RDM_researchproject) ### 
+### [Project 3: Representational Similarity Analysis (RSA) of visual stimuli: Project Overview](https://github.com/Taranks7/RDM_practicalproject) ### 
+- RSA characterizes the representation of stimuli in an individual's brain or a computational model 
+- Created a representational dissimilarity matrix (RDM) from 0 to 0.05 for participants using pairs of visual stimuli, reflecting percieved similairy between the stimuli
+- Calculated the Pearson's correlation coefficient between pairs of stimuli to quantify the level of dissimilarity 
+![rdm_plot](https://user-images.githubusercontent.com/74196907/105768107-ce1f1580-5f53-11eb-84d7-8567bfd7fcb6.png)
 
-- create representational dissimilarity matrix (RDM) for participants using pairs of stimuli, reflecting Euclidean distances between stimuli
-- the formed matrix characterizes the representation of the stimuli in an individual's brain or a computational model
-![rdm_plot](https://user-images.githubusercontent.com/74196907/105254277-14056380-5b79-11eb-8468-841ae195d885.png)
-
-Figure 3. RDM for participant 1; 0 represents most similar pairs of stimuli and 0.05 represents least similar pairs. 
+Figure 3. RDM for participant 1; 0 represents similar pair of stimuli and 0.05 represents dissimilar pair of stimuli. 
