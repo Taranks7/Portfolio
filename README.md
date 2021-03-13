@@ -1,4 +1,3 @@
-# Taranjit Sehmbi: Project Portfolio #
 A portfolio of some of the data science and machine learning based projects I have worked on.
 
 ### [Project 1: Bioinfomatics Project on Drug Discovery for Coronavirus: Project Overview](https://github.com/Taranks7/Drug-Discovery-Data-Science-Project) ### 
